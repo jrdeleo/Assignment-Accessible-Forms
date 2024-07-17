@@ -6,7 +6,9 @@ form{
 	color: #222;
 	font-size: 1.1em;
 }
-
+li {
+    display: inline;
+}
 input, label, fieldset{
 	display: block;
 	width: 95%;
